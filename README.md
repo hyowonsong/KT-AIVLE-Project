@@ -95,6 +95,7 @@
 백엔드는 **Spring Boot**를 사용하여 **REST API**를 구현하였고, 서버의 경우 **AWS EC2**를 사용하고, **DB**와 **Storage**를 **RDS**와 **S3**로 분리하여 구현했습니다. DB는 **MySQL**을 사용했고, API 서버는 **NGINX**로 배포하였습니다.
 
 프론트엔드는 **React**를 사용하여 구현했으며, 이를 NGINX를 통해 호스팅했습니다.
+![서비스 아키텍처](https://github.com/user-attachments/assets/4db37469-c8ee-4275-acd3-9e11feffccb1)
 
 ### ✅ 아키텍처 구성
 * Spring Boot 애플리케이션을 도메인으로 호스팅
@@ -125,6 +126,11 @@
 
 ✔️ **application.yml 설정**
 * 이메일 서버 설정을 통해 비밀번호 재설정 메일을 전송할 수 있습니다.
+
+| 비밀번호 재설정 | 비밀번호 변경 |
+| --------------- | ------------- |
+| ![비밀번호 재설정](https://github.com/user-attachments/assets/8a8cd25b-29e1-44bf-b024-cdccd10261ae) | ![비밀번호 변경](https://github.com/user-attachments/assets/2fa46bf8-0be2-4a07-a33c-91fbab9cbc57) |
+
 
 ### ✅ 사용자 인증 및 보안
 
