@@ -1,6 +1,5 @@
 # [All-In-One] 강의 솔루션 플랫폼
-
-![AI 4조 썸네일](https://prod-files-secure.s3.us-west-2.amazonaws.com/36358b89-fde5-4b16-95d9-7decef74047e/1ea7ef86-7323-49fb-bfcb-332aeb89d86f/AI_4%EC%A1%B0_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg)
+![AI 4조 썸네일](https://github.com/user-attachments/assets/8048a79d-23ff-43b6-981e-9611240a00e2)
 
 ## 😊 Team Members
 
